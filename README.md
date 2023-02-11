@@ -6,15 +6,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Development
-
-
+- Structured programming 
+- Machine learning 
+- Diverse libraries for data analysis and modeling
+- Validations and error handling 
+- Data analysis 
 
 
 ## Operation 
-
+The program was initially developed to interpret data through artificial intelligence with a . json file to model possible questions and answers that can show the ChatBot, it has an initial Log in window to keep track of customers using the ChatBot, has validations in the mail and phone number, where all validated information is sent to a database (csv) where it can be a source of contact for the company that is set the ChatBot, the number of questions that can be answered by the ChatBot will depend on the information we provide in the json file. 
 
 
 
