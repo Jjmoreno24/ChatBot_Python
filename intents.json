@@ -1,0 +1,51 @@
+{"intents": [
+        {"tag": "us",
+         "patterns": ["Quienes son?", "Que es Show me innovation?", "Cual es su historia?", "De donde vienen?", "Cuando fue fundada SMI"],
+         "responses": ["Somos una marca dedicada. Fundada en 2014, SMI es una marca de componentes de computacion centrada en la innovacion y la calidad de sus productos, siguiendo las pautas que marca el avance de la tecnologia mas reciente a nivel mundial. A medida que SMI evoluciona con la industria y los estilos de vida cambiantes, se enfoca en habilitar un mundo donde el hardware y el software se fusionaran entre si, creando ecosistemas y abriendo nuevas posibilidades tanto para los consumidores como para las empresas que confian en nosotros.",
+           "Evolucionar con la industria, cambiando los estilos de vida al continuar impulsando la innovacion en los negocios existentes, mientras nos expandimos a nuevos territorios."]
+        },
+        {"tag": "greeting",
+         "patterns": ["Hola", "Que tal?", "Hay alguien ahi?", "Alo", "Buenos dias", "Buenas tardes", "Buenas noches", "Buenas"],
+         "responses": ["Hola, gracias por ponerte en contacto con nosotros", "Bien ahora que estas aqui", "Hola Bienvenido",
+                       "Bueenas" ]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Adios", "Hasta luego", "Gracias por la informacion", "Muchas gracias, hasta luego"],
+         "responses": ["Hasta luego", "Ten un buen dia", "No dudes en contactarnos si tienes alguna otra duda", "Para servirte :)"]
+        },
+        {"tag": "thanks",
+         "patterns": ["Gracias", "Agradecido", "Excelente, gracias"],
+         "responses": ["Feliz de ayudarte", "Gracias a ti :)", "Un placer ayudarte "]
+        },
+        {"tag": "location",
+         "patterns": ["Donde se encuentran ubicados?", "Tienen tienda fisica?", "Donde estan?", "Me envias la ubicacion?",
+                      "Como los encuentro?", "Como llego a su tienda?"],
+         "responses": ["No tenemos una tienda fisica, sin embargo, nos puedes encontrar en GeekyDrop:)",
+                        "Por desgracia, aun no tenemos una sucursal fisica, pero nos puedes encontrar en GeekyDrop"]
+        },
+        {"tag": "payments",
+         "patterns": ["Puedo pagar con tarjetas de credito?", "Aceptan clave?", "Yappy?", "Puedo pagar con tarjeta de debito?"],
+         "responses": ["Asi es", "No puedes pagar con Clave a traves de GeekyDrop", "Si, puedes pagar con yappy a traves de GeekyDrop.",
+                        "Puedes pagar con tarjetas de debito"]
+        },
+        {"tag": "opentoday",
+         "patterns": ["Que dias abren?"],
+         "responses": ["Somos una tienda virtual Estamos abiertos todos los dias y horas del ano ;)"]
+        },
+        {"tag": "products",
+         "patterns": ["Que venden?", "Como puedo ver sus productos?", "Como puedo ver que venden?"],
+         "responses": ["Vendemos monitores, cases y fuentes de poder", "Tenemos monitores, power supplies y cases a la venta",
+                        "Tenemos monitores, cases y fuentes de poder fabricados con la mejor calidad del mercado"]
+        },
+        {"tag": "Catalogo",
+         "patterns": ["Tienen catalogo de productos?", "A ver el catalogo", "Me podrias enviar el catalogo de productos?",
+                       "Como puedo ver sus productos?"],
+         "responses": ["Puedes ver nuestros productos a traves de Geekydrop o de nuestra pagina oficial",
+                        "Puedes ver los productos en nuestra pagina oficial https://www.smi-lat.com/catalogo-productos"]
+        },
+        {"tag": "Warranty",
+         "patterns": ["Mi equipo esta danado", "Mi monitor viene con un defecto", "La pantalla llego danada", "No sirve"],
+         "responses": ["Oh no envianos los detalles al correo sales@porthopeinvestment.com o contactanos al siguiente numero 275-6822"]
+        }
+]
+}
