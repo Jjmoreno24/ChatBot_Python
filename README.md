@@ -22,19 +22,26 @@ El programa fue desarrollado inicialmente para interpretar datos a través de in
 
 
 
-## 🔭 Ejecución
-Pantalla inicial - Login \ Registro
+## 🔭 Vista - Ejecución
+## Pantalla inicial - Login / Registro
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/117414953/218237409-4e3b0e5b-877e-4637-9059-37c4c0a57182.jpg" alt="Pantalla inicial - Login / Registro">
+</div>
 
-![1](https://user-images.githubusercontent.com/117414953/218237409-4e3b0e5b-877e-4637-9059-37c4c0a57182.jpg)<br>
+## Validación de datos
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/117414953/218237412-3f836ac5-c9ba-4a5b-8146-46353135798f.jpg" alt="Validación de datos">
+</div>
 
-Validacion de datos 
+## Interfaz - ChatBot
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/117414953/218237415-21598fc4-636e-4a28-981f-1e66c373137a.jpg" alt="ChatBot">
+</div>
 
-![2](https://user-images.githubusercontent.com/117414953/218237412-3f836ac5-c9ba-4a5b-8146-46353135798f.jpg)<br>
+## CSV de Registro
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/117414953/218237416-5c897062-c0f8-4f98-bdd3-1e32854091e3.jpg" alt="CSV de Registro">
+</div>
+</br>
+<p align="center" style="font-size: smaller;"><i>🔗 Las imágenes de la empresa utilizadas en este documento son con fines demostrativos y educativos.</i></p>
 
-ChatBot 
-
-![4](https://user-images.githubusercontent.com/117414953/218237415-21598fc4-636e-4a28-981f-1e66c373137a.jpg)<br>
-
-CSV de Registro
-
-![5](https://user-images.githubusercontent.com/117414953/218237416-5c897062-c0f8-4f98-bdd3-1e32854091e3.jpg)<br>
